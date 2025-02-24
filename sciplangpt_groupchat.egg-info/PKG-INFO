@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: sciplangpt_groupchat
+Version: 0.1
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy[asyncio]
+Requires-Dist: asyncpg
+Requires-Dist: psycopg2-binary
+Requires-Dist: redis
+Requires-Dist: faiss-cpu
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: pydantic-settings>=2.0.0
+Requires-Dist: pytest
+Requires-Dist: pytest-asyncio
+Requires-Dist: pytest-cov
+Requires-Dist: numpy
+Dynamic: requires-dist

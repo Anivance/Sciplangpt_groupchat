@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+psycopg2-binary
+redis
+faiss-cpu
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+pytest
+pytest-asyncio
+pytest-cov
+numpy
