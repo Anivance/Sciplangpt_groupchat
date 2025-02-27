@@ -11,3 +11,5 @@ python-docx
 PyMuPDF
 numpy
 python-dotenv
+humanize
+flask
